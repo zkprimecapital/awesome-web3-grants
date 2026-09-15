@@ -23,12 +23,12 @@ Fastest route for *product* ideas: the fund writes a small check to work with yo
 - **[Arbitrum Foundation Grants](https://arbitrum.foundation/grants)** — builders on Arbitrum One / Nova / Orbit.
 - **[Optimism — Retro Funding](https://app.optimism.io/retropgf)** — retroactive funding for impact on the Superchain.
 - **[Starknet Foundation Grants](https://www.starknet.io/grants)** — Starknet apps, tooling, infra.
-- **[Aztec Grants](https://aztec.network/grants)** — privacy-first L2 tooling and apps.
+- **[Aztec — developer programs](https://aztec.network/developers)** — privacy-first L2 tooling and apps (grants announced via the developers hub).
 
 ## Other L1 ecosystems
 - **[Solana Foundation Grants](https://solana.org/grants)** — open-source infra, tooling, public goods on Solana.
 - **[Web3 Foundation Grants (Polkadot)](https://grants.web3.foundation/)** — milestone-based, transparent on GitHub.
-- **[Interchain Foundation Funding (Cosmos)](https://interchain.io/funding)** — interchain stack development.
+- **[Interchain Foundation Funding (Cosmos)](https://interchain.io/grants)** — interchain stack development.
 - **[Sui Foundation Grants Hub](https://sui.io/grants-hub)** — Sui ecosystem builders.
 - **[Aptos Foundation Grants](https://aptosfoundation.org/grants)** — Aptos ecosystem.
 - **[NEAR Foundation Grants](https://near.org/grants)** — NEAR ecosystem, AI-adjacent projects.
@@ -39,14 +39,14 @@ Fastest route for *product* ideas: the fund writes a small check to work with yo
 ## DeFi protocols & DAOs
 - **[Uniswap Foundation Grants](https://www.uniswapfoundation.org/grants)** — Uniswap protocol growth and research.
 - **[Aave Grants DAO](https://aavegrants.org/)** — Aave ecosystem builders.
-- **[Chainlink Community Grants](https://chain.link/community/grants)** — oracle integrations, tooling, education.
+- **[Chainlink Community & Grants](https://chain.link/community)** — oracle integrations, tooling, education.
 
 ## Public goods & quadratic funding
-- **[Gitcoin Grants](https://grants.gitcoin.co/)** — quadratic funding rounds for open-source and public goods.
+- **[Gitcoin Grants](https://www.gitcoin.co/)** — quadratic funding rounds for open-source and public goods.
 
 ## Zero-knowledge & privacy
 - **[Ethereum Foundation ESP](https://esp.ethereum.foundation/)** — cryptography and ZK research tracks.
-- **[Aztec Grants](https://aztec.network/grants)** — private smart contracts, Noir tooling.
+- **[Aztec — developer programs](https://aztec.network/developers)** — private smart contracts, Noir tooling.
 - **[ZK Prime Capital Grants](https://zkprime-capital.xyz/grants/)** — ZK infrastructure for on-chain AI.
 
 ## How to write an application that gets funded
