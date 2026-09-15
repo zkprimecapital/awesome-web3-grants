@@ -57,7 +57,7 @@ Committees read hundreds of applications. The ones that get money share four tra
 3. **Evidence you can ship.** A repo, a prototype, a past project.
 4. **A milestone the money completes.** "$40K gets the MVP to testnet in 8 weeks" is fundable. "$40K extends runway" is not.
 
-Full template: [web3-grant-application-template](https://github.com/zack-0x/web3-grant-application-template). Longer read: [How to get a web3 grant in 2026](https://zkprime-capital.xyz/journal/grants.html).
+Full template: [web3-grant-application-template](https://github.com/zkprimecapital/web3-grant-application-template). Longer read: [How to get a web3 grant in 2026](https://zkprime-capital.xyz/journal/grants.html).
 
 ## Contributing
 Open a PR with: program name, official link, what it funds, typical ticket size. Only **active** programs with a public application path. No airdrops, no bounties-only platforms, no "DM us" programs.
