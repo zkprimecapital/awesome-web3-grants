@@ -1,5 +1,7 @@
 # Awesome Web3 Grants (2026)
 
+**Live, filterable version: [zkprime-capital.xyz/tracker](https://zkprime-capital.xyz/tracker/)**
+
 A curated, no-fluff list of **active grant programs for web3 founders** — money you can apply for without giving up equity. Maintained by [ZK Prime Capital](https://zkprime-capital.xyz/). Last checked: September 2026. PRs welcome.
 
 > Rule of thumb: foundations fund *their ecosystem*, protocols fund *their usage*, funds fund *your company*. Apply to all three kinds — they don't exclude each other.
