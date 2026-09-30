@@ -1,6 +1,6 @@
 # Awesome Web3 Grants (2026)
 
-**Live, filterable version: [zkprime-capital.xyz/tracker](https://zkprime-capital.xyz/tracker/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants)**
+**Live, filterable version: [zkprime-capital.xyz/tracker](https://zkprime-capital.xyz/tracker/ · by ecosystem: https://zkprime-capital.xyz/grants/chains/ · FAQ: https://zkprime-capital.xyz/faq/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants)**
 
 A curated, no-fluff list of **active grant programs for web3 founders** — money you can apply for without giving up equity. Maintained by [ZK Prime Capital](https://zkprime-capital.xyz/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants). Last checked: September 2026 (every link re-verified; see [Changelog](#changelog)). PRs welcome.
 
