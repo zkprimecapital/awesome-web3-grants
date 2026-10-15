@@ -2,14 +2,14 @@
 
 **Live, filterable version: [zkprime-capital.xyz/tracker](https://zkprime-capital.xyz/tracker/ · by ecosystem: https://zkprime-capital.xyz/grants/chains/ · FAQ: https://zkprime-capital.xyz/faq/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants)**
 
-A curated, no-fluff list of **active grant programs for web3 founders** — money you can apply for without giving up equity. Maintained by [ZK Prime Capital](https://zkprime-capital.xyz/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants). Last checked: September 2026 (every link re-verified; see [Changelog](#changelog)). PRs welcome.
+A curated, no-fluff list of **active grant programs for web3 founders** — money you can apply for without giving up equity. Maintained by [ZK Prime Capital](https://zkprime-capital.xyz/?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants). Last checked: October 2026 (every link re-verified; see [Changelog](#changelog)). PRs welcome.
 
 > Rule of thumb: foundations fund *their ecosystem*, protocols fund *their usage*, funds fund *your company*. Apply to all three kinds — they don't exclude each other.
 
 ## Recently added (Sep 2026)
 Programs that were live and taking applications when we checked in September 2026:
 
-- **[Giveth — Quadratic Funding rounds](https://giveth.io/qf)** — recurring QF rounds for public-good projects; you list the project on Giveth, join the round, donations get matched from the pool. A round was live at check time (ends early October 2026).
+- **[Giveth — Quadratic Funding rounds](https://giveth.io/qf)** — recurring QF rounds for public-good projects; you list the project on Giveth, join the round, donations get matched from the pool. No round was live at the mid-October 2026 check; past rounds are listed at [giveth.io/qf-archive](https://giveth.io/qf-archive), new rounds are announced on the same page.
 - **[Superteam Earn — Grants](https://superteam.fun/earn/grants)** — equity-free Solana grants from ecosystem sponsors, listed in one place with ticket sizes; fast turnaround.
 - **[Prezenti (Celo)](https://www.prezenti.xyz/)** — Anchor Pool: stage-based grants from ~$25K for teams with traction; Frontier Pool: AI and agent-economy infrastructure on Celo. Applications open 12 Aug – 29 Dec 2026.
 - **[Aleo Grants](https://aleo.org/grants/)** — up to $100K for open-source privacy applications on Aleo (payments, identity, gaming, DeFi); milestone-based, technical review in about a week.
@@ -78,6 +78,8 @@ Committees read hundreds of applications. The ones that get money share four tra
 Full template: [web3-grant-application-template](https://github.com/zkprimecapital/web3-grant-application-template). Longer read: [How to get a web3 grant in 2026](https://zkprime-capital.xyz/journal/grants.html?utm_source=github&utm_medium=awesome-web3-grants&utm_campaign=grants).
 
 ## Changelog
+**October 2026** — full link re-check (36 links, all live). Giveth: September round closed, entry updated. Prezenti: page lists applications open until 29 Dec 2026 alongside a "Season 3 concluded" notice; kept, confirm on the page before applying.
+
 **September 2026** — full link re-check.
 - Added: Giveth QF, Superteam Earn, Prezenti, Aleo, Avalanche, Project Catalyst, Zcash Community Grants; aggregators line.
 - Fixed URLs: Optimism Retro Funding moved to OP Atlas Missions (the old app.optimism.io page is an empty shell); Solana, Sui, Aptos and Starknet pages moved; Gitcoin dropped the www.
