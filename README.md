@@ -16,6 +16,7 @@ Programs that were live and taking applications when we checked in September 202
 - **[Avalanche Grants](https://build.avax.network/grants)** — Team1 Builder Grants (fast, focused funding), research proposals up to $50K, subsidized audits, plus the Blizzard fund for larger rounds.
 - **[Project Catalyst (Cardano)](https://projectcatalyst.io/)** — community-voted funding rounds; Fund15 budget 18.5M ADA + 250K USDM. Proposals are public and voted on by the community.
 - **[Zcash Community Grants](https://zcashcommunitygrants.org/)** — wallets, SDKs, core infrastructure, interoperability and Zapps; funded from the Zcash Dev Fund, applications via GitHub, RFP ideas accepted.
+- **[Beldex Grants Program](https://beldex.io/grants)** - The Beldex Grants Program is a global initiative supporting developers, startups, and teams building privacy-focused applications, tools, and infrastructure on the Beldex network. With $1 million allocated to the program, Beldex is supporting projects that expand what can be built with privacy at the foundation right from payments and privacy tokens to decentralized applications, developer infrastructure, and entirely new use cases.
 
 **Aggregators** (when you want the long tail): [Karma Funding Map](https://www.karmahq.org/funding-map) · [web3grants.co](https://www.web3grants.co/) · [Blockchain Academics grants DB](https://blockchainacademics.com/grants) · [Gitcoin Apps directory](https://gitcoin.co/apps).
 
